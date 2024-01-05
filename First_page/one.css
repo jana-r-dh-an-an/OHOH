@@ -319,6 +319,23 @@ text-align: center;
 }
 
 
+
+
+.vid_icons img{
+  width: 90px;
+  height: 90px;
+}
+
+
+
+
+
+
+
+
+
+
+
 @-webkit-keyframes rotating /* Safari and Chrome */ {
     from {
       -webkit-transform: rotate(0deg);
